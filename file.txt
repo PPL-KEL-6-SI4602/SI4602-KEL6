@@ -1,6 +1,6 @@
 James Hestu Satria 1202220127
 Mochammad Aziiz Nugroho 1202223258
-Kevin Hisyam Dewanto
+Kevin Hisyam Dewanto 1202223314
 Muhammad Thoriq
 Radhitya Ahmad M
 
@@ -10,3 +10,4 @@ Prak 01
 
 Kevin Hisham Dewanto
 Praktikum PPL Modul 2
+Commit jira
