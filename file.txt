@@ -10,4 +10,4 @@ Prak 01
 
 Kevin Hisham Dewanto
 Praktikum PPL Modul 2
-Commit jira
+Commit jira SCRUM-11
